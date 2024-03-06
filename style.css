@@ -1,0 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+
+.body{
+    background-color:#04695c;
+    color:white;
+}
+
+header ul{
+    display:flex;
+    justify-content:flex-end;
+    justify-content: space-between;
+    margin-left:60rem;
+    margin-top: 2rem;
+    margin-right: 4rem;
+    font-size: 130%;
+    
+}
+
+.underline1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.underline2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.underline3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.figure1:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.figure2:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.figure3:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.icons img{
+    height:24px;
+    width:24px;
+
+}
+
+main{
+    display:flex;
+}
+
+main .left {
+    display:flex;
+    height:60%;
+    width:30%;
+    margin-top: 2rem;
+    margin-left: 7rem;
+    
+    
+}
+
+main .left p h1{
+    display:flex;
+}
+
+
+.left h1{
+    height:200px;
+    width:100px;
+    font-size: 500%;
+}
+
+.left ul p{
+    
+    writing-mode: vertical-lr;   
+}
+.left ul {
+    display:flex;
+    margin-top: 6rem;
+
+}
+.left ul p{
+    margin-top: 2rem;
+    margin-right: 1rem;
+    font-size: 170%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+    
+
+.Image img{
+    height:430px;
+    width:330px;
+    margin-top: 6rem;
+    margin-right:5rem;
+    filter:drop-shadow(0px 16px 20px rgba(160,20,80,255));
+    
+}
+
+.Image img:hover{
+    transform: scale(1.035);
+    cursor: pointer;
+}
+.low{
+    width:650px;
+    height: 60px;
+    border-radius: 40px;
+    margin-top: 30rem;
+    margin-left:-18rem;
+    background-color: white;
+    background-size:500px;
+    color: purple;
+    font-style:italic;
+    font-family:monospace;
+    font-weight: 900;
+    padding:20px;
+    padding-left: 35px;
+    filter:drop-shadow(0px 25px 32px rgba(248,249,250,255));
+    
+
+}
+.apple {
+    display:flex;   
+}
+
+.list{
+    margin-top: 9rem;
+    margin-left: 6rem;
+    
+}
+
+.list ul h1{
+    font-size: 400%;
+}
+
+.list ul li{
+    font-size: 120%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1rem;
+
+}
+
+.list button{
+    margin-top: 4rem;
+    height:100px;
+    width:250px;
+    border-radius: 45px;
+    font-size: 35px;
+    border-style: none;
+}
+
+.list button:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    
+}
+
+
+
+
+
+
+
